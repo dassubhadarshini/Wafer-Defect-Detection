@@ -3,7 +3,7 @@ The Wafer Defect Detection Project aims to design and develop an automated syste
 
 In semiconductor manufacturing, where precision is key, automated defect detection mechanisms are essential for improving efficiency and maintaining high quality. This project leverages machine learning and image processing techniques to automatically detect and classify defects on semiconductor wafers with a high degree of accuracy.
 
-Motivation
+Motivation\\
 The types of defects found in semiconductor wafers are diverse, ranging from:
 
 Unwanted particles
