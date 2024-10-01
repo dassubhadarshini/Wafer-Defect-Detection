@@ -53,11 +53,6 @@ Traditional inspection methods, which rely on manual processes or outdated algor
 
 Contributions are welcome to enhance the project’s capabilities and extend its application to other areas of semiconductor manufacturing. Feel free to explore the code, report issues, or suggest improvements.
 
-## <span style="color: #FF6347;">License</span>
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
 
 This project is set to become a cornerstone in the future of semiconductor fabrication, merging cutting-edge technology with best practices to ensure quality, efficiency, and scalability in chip manufacturing.
 
